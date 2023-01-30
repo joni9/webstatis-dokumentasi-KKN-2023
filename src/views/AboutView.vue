@@ -4,14 +4,14 @@
 
 <!-- Section: Design Block -->
 <section class="mb-32 text-center text-gray-800">
-  <h2 class="mb-12 text-3xl font-bold">TEAM KKN <u class="text-blue-600">KELOMPOK 2</u></h2>
+  <h2 class="mb-12 text-3xl font-bold">TEAM KKN <u class="text-green-600">KELOMPOK 2</u></h2>
 
   <div class="grid md:grid-cols-3 gap-x-6 lg:gap-x-12">
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="joni.jpg" class="w-full rounded-t-lg" />
+          <img src="/about/joni.png" class="w-full rounded-t-lg" />
           <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
           </a>
@@ -23,7 +23,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Joni Evendi</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Joni Evendi</h5>
           <p class="mb-4 text-gray-500">C19010005</p>
           <p class="mb-4 text-gray-500">Teknik Informatika</p>
         </div>
@@ -31,9 +31,9 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="fardi.jpg" class="w-full rounded-t-lg" />
+          <img src="/about/fardi.png" class="w-full rounded-t-lg" />
           <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
           </a>
@@ -45,7 +45,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Fardi Purwanto</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Fardi Purwanto</h5>
           <p class="mb-4 text-gray-500">E19010021</p>
           <p class="mb-4 text-gray-500">Ilmu Hukum</p>
         </div>
@@ -53,7 +53,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -67,7 +67,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Angelica Putri </h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Angelica Putri </h5>
           <p class="mb-4 text-gray-500">E19010002</p>
           <p class="mb-4 text-gray-500">Ilmu Hukum</p>
         </div>
@@ -75,7 +75,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -89,7 +89,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Wiwit L </h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Wiwit L </h5>
           <p class="mb-4 text-gray-500">E19010023</p>
           <p class="mb-4 text-gray-500">Ilmu Hukum</p>
         </div>
@@ -97,7 +97,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -111,7 +111,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Bayu Dwi Rahmadi</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Bayu Dwi Rahmadi</h5>
           <p class="mb-4 text-gray-500">D19010001</p>
           <p class="mb-4 text-gray-500">Teknik Peternakan</p>
         </div>
@@ -119,7 +119,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -133,7 +133,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Dhita Dewi Anggraeni</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Dhita Dewi Anggraeni</h5>
           <p class="mb-4 text-gray-500">F19010014</p>
           <p class="mb-4 text-gray-500">Akuntansi</p>
         </div>
@@ -141,7 +141,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -155,7 +155,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Novy Dwiyana Putri</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Novy Dwiyana Putri</h5>
           <p class="mb-4 text-gray-500">F19010004</p>
           <p class="mb-4 text-gray-500">Akuntansi</p>
         </div>
@@ -163,7 +163,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -177,7 +177,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Ragil Fiya Hastuti</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Ragil Fiya Hastuti</h5>
           <p class="mb-4 text-gray-500">F19010002</p>
           <p class="mb-4 text-gray-500">Manajemen</p>
         </div>
@@ -185,7 +185,7 @@
     </div>
 
     <div class="mt-6 mb-6 lg:mb-0">
-      <div class="block bg-white rounded-lg shadow-lg">
+      <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
           <a href="#!">
@@ -199,7 +199,7 @@
           </svg>
         </div>
         <div class="p-6">
-          <h5 class="mb-4 text-lg font-bold">Fary Putra Aulia</h5>
+          <h5 class="mb-4 text-lg font-bold text-green-600">Fary Putra Aulia</h5>
           <p class="mb-4 text-gray-500">F19010012</p>
           <p class="mb-4 text-gray-500">Manajemen</p>
         </div>
