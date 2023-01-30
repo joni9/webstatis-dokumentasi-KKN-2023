@@ -30,27 +30,27 @@ const router = createRouter({
     {
       path: '/kegiatan1',
       name: 'kegiatan1',
-      component: () => import('../views/Kegiatan/kegiatan1.vue')
+      component: () => import('../views/kegiatan/kegiatan1.vue')
     },
     {
       path: '/kegiatan2',
       name: 'kegiatan2',
-      component: () => import('../views/Kegiatan/kegiatan2.vue')
+      component: () => import('../views/kegiatan/kegiatan2.vue')
     },
     {
       path: '/kegiatan3',
       name: 'kegiatan3',
-      component: () => import('../views/Kegiatan/kegiatan3.vue')
+      component: () => import('../views/kegiatan/kegiatan3.vue')
     },
     {
       path: '/kegiatan4',
       name: 'kegiatan4',
-      component: () => import('../views/Kegiatan/kegiatan4.vue')
+      component: () => import('../views/kegiatan/kegiatan4.vue')
     },
     {
       path: '/kegiatan5',
       name: 'kegiatan5',
-      component: () => import('../views/Kegiatan/kegiatan5.vue')
+      component: () => import('../views/kegiatan/kegiatan5.vue')
     },
     {
       path: '/:pathMatch(.*)*',
