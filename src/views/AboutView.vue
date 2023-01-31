@@ -12,9 +12,7 @@
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="/about/joni.png" class="w-full rounded-t-lg" />
-          <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute bg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -34,9 +32,7 @@
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="/about/fardi.png" class="w-full rounded-t-lg" />
-          <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -55,10 +51,8 @@
     <div class="mt-6 mb-6 lg:mb-0">
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
+          <img src="/about/angel.png" class="w-full rounded-t-lg" />
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -77,10 +71,8 @@
     <div class="mt-6 mb-6 lg:mb-0">
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
+          <img src="/about/wiwit.png" class="w-full rounded-t-lg" />
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -100,9 +92,7 @@
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -121,10 +111,8 @@
     <div class="mt-6 mb-6 lg:mb-0">
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="https://mdbootstrap.com/img/new/avatars/6.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
+          <img src="/about/dita.png" class="w-full rounded-t-lg" />
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -144,9 +132,7 @@
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/8.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -166,9 +152,7 @@
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
           <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
@@ -187,10 +171,8 @@
     <div class="mt-6 mb-6 lg:mb-0">
       <div class="block bg-white border rounded-lg shadow-lg">
         <div class="relative overflow-hidden bg-no-repeat bg-cover">
-          <img src="https://mdbootstrap.com/img/new/avatars/15.jpg" class="w-full rounded-t-lg" />
-          <a href="#!">
+          <img src="/about/fary.png" class="w-full rounded-t-lg" />
             <div class="absolute top-0 bottom-0 left-0 right-0 w-full h-full overflow-hidden bg-fixed"></div>
-          </a>
           <svg class="absolute" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"
             style="left: 0; bottom: 0">
             <path fill="#fff"
